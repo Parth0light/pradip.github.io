@@ -1,0 +1,16 @@
+title: "VLSI Tutorials Hub"
+description: "Learn Verilog, SystemVerilog, UVM and stay updated with VLSI industry news."
+baseurl: "" 
+url: "https://pradip.github.io"
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Author info
+author:
+  name: "pradip"
+  email: "pradip.pp2702@gmail.com"
